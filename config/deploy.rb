@@ -7,7 +7,7 @@ set :default_environment, {
 set :ssh_options, { :forward_agent => true }
 
 set :application, "dcblog"
-set :repository, "https://github.com/boomkenster/do"
+set :repository, "git@github.com:boomkenster/DO.git"
 set :user, "root"
 set :use_sudo, false
 
