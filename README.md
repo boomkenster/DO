@@ -2,6 +2,6 @@
 
 Welcome to my Digital Ocean Projects!
 
-Implementing Wordpress, Apache, PHP, MySQL into Ubuntu
+On Ruby on Rails and implementing Chef, Capristano, and Unicorn to Deploy
 
 #####################################################################
